@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bilal Belli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-belli&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-belli" /> </p>
+<h1 align="center">Hi, I'm Bilal Belli</h1>
+<h3 align="center">A Student of Computer Science at ESI Algiers since 2019</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://bilalbelli.live/](https://bilalbelli.live/)
+
+- 📫 How to reach me **Jb_belli@esi.dz**
+
+- 📄 Know about my experiences [https://bilalbelli.live/Resume.pdf](https://bilalbelli.live/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
