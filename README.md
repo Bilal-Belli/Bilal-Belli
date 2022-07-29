@@ -1,16 +1,3 @@
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/belli-bilal/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/Bi_lal#6555" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bi_lal#6555" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/bilal1belli" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bi_lal#6555" height="30" width="40" />
-    </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <p align="center">
@@ -39,3 +26,16 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-belli&show_icons=true&locale=en&layout=compact"/></p>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-belli&show_icons=true&locale=en"/></p>
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/belli-bilal/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/Bi_lal#6555" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bi_lal#6555" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/bilal1belli" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bi_lal#6555" height="30" width="40" />
+    </a>
+</p>
