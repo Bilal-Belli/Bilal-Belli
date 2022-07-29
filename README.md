@@ -1,114 +1,30 @@
-<table class="chaarts radar-multiple" id="radar-multiple" style="--scale: 20; --step: 5; --items: 7; --areas: 2;">
-  <caption id="caption-9">[…]</caption>
-  <thead>
-    <tr>
-      <th scope="col">[…]</th>
-      <th scope="col">[…]</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="--color: #734bf9; --1: 14; --2: 11; --3: 13; --4: 16; --5: 14; --6: 10; --7: 4; --8: var(--1);">
-      <th scope="row">Gaël</th>
-      <td><span>14</span></td>
-    </tr>
-    <tr style="-color: #e11a81; --1: 18; --2: 10; --3: 11; --4: 16; --5: 10; --6: 12; --7: 11; --8: var(--1);">
-      <th scope="row">Luc</th>
-      <td><span>18</span></td>
-    </tr>
-  </tbody>
-</table>
-<style>
-	.chaarts.radar-multiple {
-  margin-bottom: 12rem;
-}
+<h1 align="center">Hi, I'm Bilal Belli</h1>
+<h3 align="center">A Student of Computer Science at ESI Algiers since 2019</h3>
 
-.chaarts.radar-multiple tbody {
-  columns: var(--areas);
-  vertical-align: bottom;
-}
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-.chaarts.radar-multiple [scope="row"] {
-  bottom: -8rem;
-  height: 2rem;
-  left: 1rem;
-  position: absolute;
-}
+- 👨‍💻 All of my projects are available at [https://bilalbelli.live/](https://bilalbelli.live/)
 
-.chaarts.radar-multiple [scope="row"]::before {
-  background: var(--color, currentColor);
-  content: "";
-  display: inline-block;
-  height: 1rem;
-  margin-right: .25rem;
-  transform: translate3d(0, .1rem, 0);
-  width: 1rem;
-}
+- 📫 How to reach me **Jb_belli@esi.dz**
 
-/* 2nd: */
-.chaarts.radar-multiple tr:nth-child(2) [scope="row"] {
-  left: calc( 1rem + (100% / var(--areas)) * 1);
-}
+- 📄 Know about my experiences [https://bilalbelli.live/Resume.pdf](https://bilalbelli.live/Resume.pdf)
 
-.chaarts.radar-multiple td {
-  align-items: flex-end;
-  border-color: var(--color, currentColor);
-  display: flex;
-  justify-content: flex-end;
-  opacity: .5;
-  pointer-events: none;
-  transition: opacity .2s cubic-bezier(.5, 0, .5, 1);
-  z-index: 0;
-}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/belli-bilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belli-bilal/" height="30" width="40" /></a>
+<a href="https://discord.gg/Bi_lal#6555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bi_lal#6555" height="30" width="40" /></a>
+<p align="center">
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/belli-bilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belli-bilal/" height="30" width="40" /></a>
+   <a href="https://discord.gg/Bi_lal#6555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bi_lal#6555" height="30" width="40" /></a>
+</p>
 
-.chaarts.radar-multiple td::after {
-  color: var(--color, currentColor);
-  display: block;
-  font-size: small;
-  font-weight: 700;
-  text-indent: -.5rem;
-  transform:
-    skew( calc( var(--skew) * -1 ) )
-    rotate( calc( var(--part) * var(--index, 1) * -1 ) );
-  transform-origin: 0 0;
-  width: 100%;
-  white-space: nowrap;
-}
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-.chaarts.radar-multiple td:nth-of-type(2)::after {
-  --integer: calc(var(--2));
-  counter-reset: value var(--integer);
-  content: counter(value);
-  width: calc( var(--2) * 100% / var(--scale) );
-}
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-belli&show_icons=true&locale=en&layout=compact" alt="bilal-belli" /></p>
 
-.chaarts.radar-multiple span {
-  background: var(--color, currentColor);
-  pointer-events: auto;
-}
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-belli&show_icons=true&locale=en&layout=compact" alt="bilal-belli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-belli&show_icons=true&locale=en" alt="bilal-belli" /></p>
 
-@supports (mask-image: url()) {
-  .chaarts.radar-multiple span {
-    --mask: radial-gradient(circle at bottom right, rgba(0,0,0,1), rgba(0,0,0,.5));
-    mask-image: var(--mask);
-  }
-}
-
-@media (hover: hover) {
-  .chaarts.radar-multiple td {
-    opacity: .25;
-  }
-
-  .chaarts.radar-multiple td::after {
-    opacity: 0;
-  }
-
-  .chaarts.radar-multiple tr:hover td {
-    opacity: 1;
-    z-index: 1;
-  }
-
-  .chaarts.radar-multiple tr:hover td::after {
-    opacity: inherit;
-  }
-}
-</style>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&" alt="bilal-belli" /></p>
