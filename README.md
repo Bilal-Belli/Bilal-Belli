@@ -32,7 +32,7 @@
 </div>
  
  <div align="center">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&"/></p>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-belli&show_icons=true&locale=en&layout=compact"/></p>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-belli&show_icons=true&locale=en"/></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&"/></p>
 </div>
