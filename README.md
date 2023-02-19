@@ -14,22 +14,28 @@
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-belli&show_icons=true&locale=en"/></p>
 </div>
 <h3 align="left">Connect with me:</h3>
-<p align="center"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/belli-bilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> <a href="https://discord.gg/Bi_lal#6555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bi_lal#6555" height="30" width="40" /></a> <a href="https://twitter.com/bilal1belli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bi_lal#6555" height="30" width="40" /></a>
-   <a href="https://stackoverflow.com/users/13244079/bilal-belli" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" height="70" width="60" /></a>
+<p align="center">
   
 </p>
-<center>
-<table>
+<table align="center">
   <tr>
     <td>
-      <a href="https://www.facebook.com/"><img src="facebook-icon.png" alt="Facebook"></a>
+            <a href="https://www.linkedin.com/in/belli-bilal/" >
+            <img src="https://user-images.githubusercontent.com/74218805/219942623-a1e2387a-846e-4ee5-b25d-1005b934e0a4.png" alt="linkedin" height="30" width="30">
+            </a>
     </td>
     <td>
-      <a href="https://www.twitter.com/"><img src="twitter-icon.png" alt="Twitter"></a>
+            <a href="https://discord.gg/Bi_lal#6555" ><img src="https://user-images.githubusercontent.com/74218805/219942643-7b88b034-b293-4148-92b3-94940e0c58fb.png" alt="discord" height="30" width="30">
+            </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/"><img src="instagram-icon.png" alt="Instagram"></a>
+          <a href="https://twitter.com/bilal1belli" >
+             <img src="https://user-images.githubusercontent.com/74218805/219942421-0f5ca341-bf60-4d61-a450-1beb3d96d163.png" alt="twitter" height="30" width="30">
+          </a>
+    </td>
+    <td>
+            <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow" height="30" width="30">
+            </a>
     </td>
   </tr>
 </table>
-</center>
