@@ -2,49 +2,40 @@
 <table align="center">
   <tr>
     <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="30">
     </td>
     <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://user-images.githubusercontent.com/74218805/219943906-b4358d18-6a40-4aa1-9961-511fb9f63f39.png" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30">
+    </td>
+    <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="30">
-    </td>
-    <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30">
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="30">
     </td>
     <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30">
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="30" width="30">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="30">
     </td>
     <td>
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30" width="30">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="30">
     </td>
   </tr>
 </table>
