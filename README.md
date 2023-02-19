@@ -34,8 +34,14 @@
           </a>
     </td>
     <td>
+            <a href="jb_belli@esi.dz" ><img src="https://user-images.githubusercontent.com/74218805/219942942-778dd537-04d9-4bac-9a84-1a3c3d534948.png" alt="gmail" height="30" width="30">
+            </a>
+    </td>
+    <td>
             <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow" height="30" width="30">
             </a>
     </td>
   </tr>
+      
+
 </table>
