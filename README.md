@@ -1,9 +1,3 @@
-<style>
-      table {
-        margin-left: auto;
-        margin-right: auto;
-      }
-    </style>
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
   <tr>
