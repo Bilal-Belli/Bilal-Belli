@@ -5,18 +5,61 @@
       }
     </style>
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
-   <p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a> <a target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a></p>
-</div>
+<table align="center">
+  <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30" width="30">
+    </td>
+  </tr>
+</table>
 <div align="center">
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&"/></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-belli&show_icons=true&locale=en&layout=compact"/></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-belli&show_icons=true&locale=en"/></p>
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  
-</p>
+<h3 align="left">Contact me</h3>
 <table align="center">
   <tr>
     <td>
@@ -38,10 +81,8 @@
             </a>
     </td>
     <td>
-            <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="stackoverflow" height="30" width="30">
+            <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://user-images.githubusercontent.com/74218805/219943025-0812d56a-9e8d-4d45-96bc-34d17b6504b1.png" alt="stackoverflow" height="30" width="30">
             </a>
     </td>
   </tr>
-      
-
 </table>
