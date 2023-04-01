@@ -42,12 +42,10 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p> 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&theme=vue"/></p>
-  <p>Visitor count</p>
+</div>
+<h3 align="left">Visitor count</h3>
+<div align="center">
   <p><img src="https://profile-counter.glitch.me/Bilal-Belli/count.svg" /></p>
-  
-<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-belli&show_icons=true&theme=vue"/></p> -->
-<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-belli&hide_progress=true)](https://github.com/bilal-belli/github-readme-stats"/></p> -->
-  
 </div>
 <h3 align="left">Contact me</h3>
 <table align="center">
