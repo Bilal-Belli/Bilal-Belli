@@ -56,7 +56,7 @@
             </a>
     </td>
     <td>
-          <a href="https://twitter.com/bilal1belli" >
+          <a href="https://twitter.com/bilal_belli_" >
              <img src="https://user-images.githubusercontent.com/74218805/219942421-0f5ca341-bf60-4d61-a450-1beb3d96d163.png" alt="twitter" height="30" width="30">
           </a>
     </td>
