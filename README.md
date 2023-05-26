@@ -40,7 +40,7 @@
   </tr>
 </table>
 <div align="center">
-  <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p> 
+<!--   <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p>  -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&theme=vue"/></p>
 </div>
 <h3 align="left">Contact me</h3>
