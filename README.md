@@ -1,4 +1,7 @@
-<h3 align="left">Languages and Tools</h3>
+## About
+I'm Bilal Belli, a computer systems engineer.
+
+## Skills Set
 <table align="center">
   <tr>
     <td>
@@ -37,13 +40,31 @@
     <td>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="30">
     </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="30">
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" width="30">
+    </td>
   </tr>
 </table>
+
+## Dashboard
 <div align="center">
 <!--   <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p>  -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&theme=vue"/></p>
 </div>
-<h3 align="left">Contact me</h3>
+
+## Reach me on
 <table align="center">
   <tr>
     <td>
@@ -52,7 +73,7 @@
             </a>
     </td>
     <td>
-            <a href="https://discord.gg/Bi_lal#6555" ><img src="https://user-images.githubusercontent.com/74218805/219942643-7b88b034-b293-4148-92b3-94940e0c58fb.png" alt="discord" height="30" width="30">
+            <a href="https://discord.com/users/722045011700744255" ><img src="https://user-images.githubusercontent.com/74218805/219942643-7b88b034-b293-4148-92b3-94940e0c58fb.png" alt="discord" height="30" width="30">
             </a>
     </td>
     <td>
@@ -66,6 +87,14 @@
     </td>
     <td>
             <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://user-images.githubusercontent.com/74218805/219943025-0812d56a-9e8d-4d45-96bc-34d17b6504b1.png" alt="stackoverflow" height="30" width="30">
+            </a>
+    </td>
+    <td>
+            <a href="https://wa.me/213559232553" ><img src="https://www.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="whatsapp" height="30" width="30">
+            </a>
+    </td>
+    <td>
+            <a href="https://www.instagram.com/bilal_belli__/" ><img src="https://www.cdnlogo.com/logos/i/4/instagram.svg" alt="Instagram" height="30" width="30">
             </a>
     </td>
   </tr>
