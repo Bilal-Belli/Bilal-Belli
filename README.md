@@ -1,5 +1,5 @@
 ## About
-I'm Bilal Belli, a computer systems engineer.
+I'm Bilal Belli, a ``Computer Systems Engineer`` and a ``Full Stack Developer``.
 
 ## Skills Set
 <table align="center">
@@ -82,10 +82,6 @@ I'm Bilal Belli, a computer systems engineer.
           </a>
     </td>
     <td>
-            <a href="jb_belli@esi.dz" ><img src="https://user-images.githubusercontent.com/74218805/219942942-778dd537-04d9-4bac-9a84-1a3c3d534948.png" alt="gmail" height="30" width="30">
-            </a>
-    </td>
-    <td>
             <a href="https://stackoverflow.com/users/13244079/bilal-belli" ><img src="https://user-images.githubusercontent.com/74218805/219943025-0812d56a-9e8d-4d45-96bc-34d17b6504b1.png" alt="stackoverflow" height="30" width="30">
             </a>
     </td>
@@ -99,3 +95,6 @@ I'm Bilal Belli, a computer systems engineer.
     </td>
   </tr>
 </table>
+
+Please consider supporting me ❤️
+<div align="center"><a href="https://www.buymeacoffee.com/bbelli"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=bbelli&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a></div>
