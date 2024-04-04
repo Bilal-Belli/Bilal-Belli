@@ -41,9 +41,6 @@ I'm Bilal Belli, a ``Computer Systems Engineer`` and a ``Full Stack Developer``.
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" width="30">
     </td>
     <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30">
-    </td>
-    <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" width="30">
     </td>
     <td>
