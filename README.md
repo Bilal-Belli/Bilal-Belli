@@ -83,7 +83,7 @@ I'm Bilal Belli, a ``Computer Systems Engineer`` and a ``Full Stack Developer``.
             </a>
     </td>
     <td>
-            <a href="https://wa.me/213559232553" ><img src="https://www.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="whatsapp" height="30" width="30">
+            <a href="https://wa.me/33748243064" ><img src="https://www.cdnlogo.com/logos/w/29/whatsapp-icon.svg" alt="whatsapp" height="30" width="30">
             </a>
     </td>
     <td>
