@@ -1,5 +1,5 @@
 ## About
-I'm Bilal Belli, a ``Computer Systems Engineer`` and a ``Full Stack Developer``.
+A ``Computer Systems Engineer`` and a ``Full Stack Developer``.
 
 ## Skills Set
 <table align="center">
@@ -55,11 +55,11 @@ I'm Bilal Belli, a ``Computer Systems Engineer`` and a ``Full Stack Developer``.
   </tr>
 </table>
 
-## Dashboard
-<div align="center">
-<!--   <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p>  -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&theme=vue"/></p>
-</div>
+<!-- ## Dashboard -->
+<!-- <div align="center"> -->
+  <!--   <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bilal-belli&theme=vue"/></p>  -->
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-belli&theme=vue"/></p> -->
+<!-- </div> -->
 
 ## Reach me on
 <table align="center">
@@ -92,6 +92,3 @@ I'm Bilal Belli, a ``Computer Systems Engineer`` and a ``Full Stack Developer``.
     </td>
   </tr>
 </table>
-
-Please consider supporting me ❤️
-<div align="center"><a href="https://www.buymeacoffee.com/bbelli"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=bbelli&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a></div>
