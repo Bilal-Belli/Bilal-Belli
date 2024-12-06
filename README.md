@@ -1,7 +1,11 @@
-## About
+# About
 A ``Computer Systems Engineer`` and a ``Full Stack Developer``.
 
-## Skills Set
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/216e3ee9-1e48-43e3-a06a-4e390efb9a4b" height="60%" width="60%" >
+</div>
+
+# Skills Set
 <table align="center">
   <tr>
     <td>
@@ -92,3 +96,4 @@ A ``Computer Systems Engineer`` and a ``Full Stack Developer``.
     </td>
   </tr>
 </table>
+
